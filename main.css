@@ -1,0 +1,22 @@
+.wrapper {
+    width: 400px;
+    height: 500px;
+    border: 2px solid black;
+    padding: 20px;
+    margin: 100px auto;
+    border-radius: 30px;
+    text-align: center;
+    background-color: aliceblue;
+}
+.btn {
+    padding: 20px;
+    margin-left: 650px;
+}
+.btn:hover {
+    background-color: darkgreen;
+    color: white;
+}
+body {
+    font-family: Arial, sans-serif;
+    background-color: #04ff00;
+}
